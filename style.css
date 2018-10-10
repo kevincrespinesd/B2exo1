@@ -97,3 +97,7 @@ h2 {
 .photographie{
   width: 250px;
 }
+
+.text-center {
+  text-align: center;
+}
